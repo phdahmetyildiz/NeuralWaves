@@ -80,5 +80,5 @@ The above Text as well as most of the code comes from AI Tools. The curated prom
 For the time being, here will be the list of the Tools used so far. This list will be updatet every time something new was used.
 
 - **GROK**
- - The initial project structure and this Readme file (except some minor changes by myself) were generated with GROK in Version 4 with the preset "Automatic".
- - Automatic means, GROK itself decides if it gives me a fast answer, or if it uses the expert mode with longer "thinking".
+  - The initial project structure and this Readme file (except some minor changes by myself) were generated with GROK in Version 4 with the preset "Automatic".
+  - Automatic means, GROK itself decides if it gives me a fast answer, or if it uses the expert mode with longer "thinking".
