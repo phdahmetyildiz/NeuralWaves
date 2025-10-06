@@ -1,0 +1,8 @@
+providers:
+  jamendo:
+    client_id: "YOUR-CLIENT-ID"  # Register free at https://developer.jamendo.com/v3.0
+    base_url: "https://api.jamendo.com/v3.0"
+  # Future: other_api:
+  #   api_key: ""
+  #   base_url: ""
+music_dir: "./music"  # Mounted volume
